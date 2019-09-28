@@ -6,5 +6,6 @@ This solver is designed in HTML, CSS.
 jQuery(javascript framework) is used for dynamic actions and the calculations done for the desired output 
 
 ## Usage
-You can simple click on this [link](https://raghavadasari.github.io/SUDOKU/) to get the solver or
+You can directly use [Sudoku-Solver](https://raghavadasari.github.io/SUDOKU/) to solve any sudoku.
+# or
 you can download the repository and open the [index.html] file with chrome(any browser) to run the solver.
